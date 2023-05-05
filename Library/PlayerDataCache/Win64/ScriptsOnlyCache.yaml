@@ -884,4 +884,5 @@ ScriptsOnlyBuild:
   platform: 19
   scenePathNames:
   - Assets/Challenge 2/Challenge 2.unity
-  playerPath: A:/Inscription/Portfolio/Builds/Challenge 2.exe
+  playerPath: "A:/Cr\xE9ation Jeu vid\xE9o/Unity Projects/Fetch-Timing-Game/Builds/Fetch
+    Timing Game.exe"
